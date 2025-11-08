@@ -42,6 +42,6 @@ node index.js kamranahmedse
 
 🔗 Project URL
 
-👉 https://github.com/shikha4-aa/github-cli.git
+[ https://github.com/shikha4-aa/github-cli.git](https://github.com/shikha4-aa/github-cli)
 
 
