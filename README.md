@@ -41,7 +41,7 @@ node index.js kamranahmedse
 - Created repository kamranahmedse/new-project
 
 🔗 Project URL  
-[https://github.com/shikha4-aa/github-cli](https://github.com/shikha4-aa/github-cli)
+https://roadmap.sh/projects/github-user-activity
 
 
 
