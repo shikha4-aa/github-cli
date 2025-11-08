@@ -40,7 +40,8 @@ node index.js kamranahmedse
 - Opened an issue in kamranahmedse/developer-roadmap
 - Created repository kamranahmedse/new-project
 
-🔗 Project URL
-https://github.com/shikha4-aa/github-cli
+🔗 Project URL  
+[https://github.com/shikha4-aa/github-cli](https://github.com/shikha4-aa/github-cli)
+
 
 
